@@ -6,8 +6,11 @@
 </div>
 <div>
 <p align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<!-- GITHUB STATS
 <br>
 <br>
 <img align="center" alt="hyenaphoenix's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hyenaphoenix&show_icons=true&hide_border=true&theme=calm&custom_title=HYENAPHOENIX'S STATS"/>
+DOES NOT LOOK NICE ON PHONE, SO I WILL SAVE FOR LATER
+-->
 </div>
 </body>
