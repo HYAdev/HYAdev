@@ -1,17 +1,12 @@
-### Hi there 👋
+<body>
+<h1 align="center">HYENAPHOENIX</h1>
 
-<!--
-**hyenaphoenix/hyenaphoenix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-test test
+<div>
+<h2 align="left">KNOWLEDGE</h2>
+<p>
+<img src="https://media1.giphy.com/media/H4DjXQXamtTiIuCcRU/giphy.gif" align="right">
+</div>
+<div>
+<p align="left"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</div>
+</body>
