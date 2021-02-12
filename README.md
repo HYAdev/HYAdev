@@ -9,6 +9,6 @@
 <br>
 <br>
 <img src="https://media1.giphy.com/media/H4DjXQXamtTiIuCcRU/giphy.gif" align="right" height="200" width="200">
-<img align="left" alt="hyenaphoenix's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hyenaphoenix&show_icons=true&hide_border=true&theme=prussian&custom_title=HYENAPHOENIX'S STATS"/>
+<img align="left" alt="hyenaphoenix's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hyenaphoenix&show_icons=true&hide_border=true&theme=calm&custom_title=HYENAPHOENIX'S STATS"/>
 </div>
 </body>
