@@ -1,6 +1,6 @@
 <body>
-<h1 align="center">❤HYENAPHOENIX❤</h1>
-  <h2 align="center">( •̀ ω •́ )y</h2>
+<h1 align="center">❤ HYENAPHOENIX ❤</h1>
+  <h2 align="center">( •̀ ω •́ )</h2>
 <div>
 <h3 align="center">KNOWLEDGE</h3>
 </div>
