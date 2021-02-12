@@ -1,8 +1,8 @@
 <body>
-<h1 align="center">HYENAPHOENIX</h1>
-  <h2 align="center">❤ ( •̀ ω •́ )y ❤</h2>
+<h1 align="center">❤HYENAPHOENIX❤</h1>
+  <h2 align="center">( •̀ ω •́ )y/h2>
 <div>
-<h2 align="center">KNOWLEDGE</h2>
+<h3 align="center">KNOWLEDGE</h3>
 </div>
 <div>
 <p align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
