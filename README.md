@@ -1,6 +1,6 @@
 <body>
 <h1 align="center">❤HYENAPHOENIX❤</h1>
-  <h2 align="center"><img src="https://media1.giphy.com/media/H4DjXQXamtTiIuCcRU/giphy.gif" height="50" width="50"><img src="https://media1.giphy.com/media/H4DjXQXamtTiIuCcRU/giphy.gif" height="50" width="50"><img src="https://media1.giphy.com/media/H4DjXQXamtTiIuCcRU/giphy.gif" height="50" width="50"></h2>
+<h2 align="center"><img src="https://media1.giphy.com/media/H4DjXQXamtTiIuCcRU/giphy.gif" height="50" width="50"><img src="https://media1.giphy.com/media/H4DjXQXamtTiIuCcRU/giphy.gif" height="50" width="50"><img src="https://media1.giphy.com/media/H4DjXQXamtTiIuCcRU/giphy.gif" height="50" width="50"></h2>
 <div>
 <h3 align="center">KNOWLEDGE</h3>
 </div>
