@@ -13,4 +13,9 @@
 DOES NOT LOOK NICE ON PHONE, SO I WILL SAVE FOR LATER
 -->
 </div>
+<div>
+<h3 align="center">CONTACT ME (COMING SOON)</h3>
+</div>
+
+</div>
 </body>
