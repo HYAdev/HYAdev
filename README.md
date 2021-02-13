@@ -9,8 +9,6 @@
 </div>
 <div>
 <h3 align="center">CONTACT ME (COMING SOON)</h3>
-<br>
-<img align="center" alt="hyenaphoenix's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hyenaphoenix&show_icons=true&hide_border=true&theme=calm&custom_title=HYENAPHOENIX'S STATS"/>
 </div>
 <div>
 <img align="center" alt="hyenaphoenix's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hyenaphoenix&show_icons=true&hide_border=true&theme=calm&custom_title=HYENAPHOENIX'S STATS"/>
