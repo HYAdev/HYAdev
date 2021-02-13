@@ -2,7 +2,7 @@
 <h1 align="center">❤HYENAPHOENIX❤</h1>
 <h2 align="center"><img src="https://media1.giphy.com/media/H4DjXQXamtTiIuCcRU/giphy.gif" height="50" width="50"><img src="https://media1.giphy.com/media/H4DjXQXamtTiIuCcRU/giphy.gif" height="50" width="50"><img src="https://media1.giphy.com/media/H4DjXQXamtTiIuCcRU/giphy.gif" height="50" width="50"></h2>
 <div>
-<h3 align="center">LANGUAGES I AM FAMILIAR WITH:</h3>
+<h3 align="center">FAMILIAR WITH:</h3>
 </div>
 <div>
 <p align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
