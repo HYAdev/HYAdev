@@ -1,6 +1,6 @@
 <body>
 <h1 align="center">❤HYENAPHOENIX❤</h1>
-<h2 align="center"><img src="https://media1.giphy.com/media/H4DjXQXamtTiIuCcRU/giphy.gif" height="50" width="50"><img src="https://media1.giphy.com/media/H4DjXQXamtTiIuCcRU/giphy.gif" height="50" width="50"><img src="https://media1.giphy.com/media/H4DjXQXamtTiIuCcRU/giphy.gif" height="50" width="50"></h2>
+<h2 align="center"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" height="50" width="50"><img src="https://media1.giphy.com/media/H4DjXQXamtTiIuCcRU/giphy.gif" height="50" width="50"><img src="https://media1.giphy.com/media/H4DjXQXamtTiIuCcRU/giphy.gif" height="50" width="50"><img src="https://media1.giphy.com/media/H4DjXQXamtTiIuCcRU/giphy.gif" height="50" width="50"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" height="50" width="50"><img src="https://media1.giphy.com/media/H4DjXQXamtTiIuCcRU/giphy.gif" height="50" width="50"></h2>
 <div>
 <h3 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" height="25" width="25"> FAMILIAR WITH <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" height="25" width="25"></h3>
 </div>
