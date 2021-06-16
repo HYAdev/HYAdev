@@ -1,5 +1,5 @@
 <body>
-  <h1 align="center">❤HYENA❤</h1>
+  <h1 align="center">YAHALLO</h1>
   <h2 align="center">
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" height="50" width="50">
   <img src="https://media1.giphy.com/media/H4DjXQXamtTiIuCcRU/giphy.gif" height="50" width="50">
