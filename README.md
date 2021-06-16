@@ -1,6 +1,7 @@
 <body>
-  <h1 align="center">YAHALLO</h1>
+  <h1 align="center">YAHALLO
   <img src="https://media.tenor.com/images/335d0f95dc41141b04919e65438118ef/tenor.gif">
+  </h1>
   <h2 align="center">
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" height="50" width="50">
   <img src="https://media1.giphy.com/media/H4DjXQXamtTiIuCcRU/giphy.gif" height="50" width="50">
