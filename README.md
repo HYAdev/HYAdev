@@ -1,5 +1,5 @@
 <body>
-  <h1 align="center">YAHALLO
+  <h1 align="center">
   <img src="https://media.tenor.com/images/335d0f95dc41141b04919e65438118ef/tenor.gif">
   </h1>
   <h2 align="center">
