@@ -1,6 +1,6 @@
 <body>
   <h1 align="center">YAHALLO</h1>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fyuigahama-yahallo-oregairu-hello-wave-gif-13358680&psig=AOvVaw30RilxoiomsKm23F-ntYZx&ust=1623957775666000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjW96TwnPECFQAAAAAdAAAAABAD" height="100" width="100">
+  <img src="https://media.tenor.com/images/335d0f95dc41141b04919e65438118ef/tenor.gif" height="100" width="100">
   <h2 align="center">
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" height="50" width="50">
   <img src="https://media1.giphy.com/media/H4DjXQXamtTiIuCcRU/giphy.gif" height="50" width="50">
