@@ -9,7 +9,7 @@
   <ul>No idea</ul>
   
   <h1>How?</h1>
-  <ul>Using an IDE?</ul>
+  <ul>...Using an IDE?</ul>
   
   <h1>When?</h1>
   <ul>...</ul>
