@@ -1,4 +1,20 @@
 <body>
+  <h1>Who?</h1>
+  <ul>Hyena</ul>
+  <h1>What?</h1>
+  <ul>Python, C++</ul>
+  <h1>Why?</h1>
+  <ul>No idea</ul>
+  <h1>How?</h1>
+  <ul>Using an IDE?</ul>
+  <h1>When?</h1>
+  <ul>...</ul>
+</body>
+
+
+
+<!--
+<body>
   <h1 align="center">
   <img src="https://media.tenor.com/images/335d0f95dc41141b04919e65438118ef/tenor.gif">
   </h1>
@@ -16,11 +32,11 @@
 <p align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/><p>
 </div>
 <div>
-<!--<h3 align="center">CONTACT ME (COMING SOON)</h3>-->
+<h3 align="center">CONTACT ME (COMING SOON)</h3>
 </div>
-<!--
+
 <div>
 <img align="center" alt="hyenaphoenix's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hyenaphoenix&show_icons=true&hide_border=true&theme=calm&custom_title=HYENAPHOENIX'S STATS"/>
   </div>
--->
 </body>
+-->
