@@ -3,8 +3,7 @@
 Yahallo!
 
 Something about me...
-I am Hyena. 
-I am a musical artist that also likes programming (just maybe). 
+I am Hyena, a musical artist that also likes programming (just maybe). 
 The languages that I know (or used to...) are C++ and Python.
 
 Ways you can contact me...
