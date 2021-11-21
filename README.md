@@ -6,6 +6,9 @@
 > I am **Hyena**, a *musical artist* that also likes programming (*just maybe*). 
 The languages that I know (or used to...) are **C++ and Python**.
 
+## What do I know/want to learn? <img src= "https://cdn.discordapp.com/emojis/792588143094267976.gif" width="30" height="30" />
+> I dunno
+
 ## Ways you can contact me... <img src= "https://cdn.discordapp.com/emojis/778772475462549544.gif" width="30" height="30" />
 > No, thanks.
 
