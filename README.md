@@ -5,7 +5,7 @@
 ## Something about me... <img src= "https://cdn.discordapp.com/emojis/848738178620981308.gif" width="30" height="30" />
 > I am **Hyena**, a *musical artist* that also likes programming (*sort of*).
 
-## What do I know/want to learn? <img src= "https://cdn.discordapp.com/emojis/792588143094267976.gif" width="30" height="30" />
+## I know... <img src= "https://cdn.discordapp.com/emojis/792588143094267976.gif" width="30" height="30" />
 > The languages that I know (or used to...) are **C++ and Python**.
 
 ## Ways you can contact me... <img src= "https://cdn.discordapp.com/emojis/778772475462549544.gif" width="30" height="30" />
