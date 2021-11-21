@@ -9,4 +9,4 @@
 > The languages that I ~~used to~~ know are **_C++_** and **_Python_**.
 
 ## I want to know... <img src="https://cdn.discordapp.com/emojis/764517171232636938.gif" height="30" width="30">
->  ***Everything***
+>  *Everything*
