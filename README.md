@@ -1,15 +1,13 @@
-(Rough Draft)
+# Yahallo!
 
-Yahallo!
-
-Something about me...
-I am Hyena, a musical artist that also likes programming (just maybe). 
+## Something about me...
+> I am Hyena, a musical artist that also likes programming (just maybe). 
 The languages that I know (or used to...) are C++ and Python.
 
-Ways you can contact me...
-No, thanks.
+## Ways you can contact me...
+> No, thanks.
 
-<!--
+<!-- I don't know what to do with this lol
 <body>
   <h1>Who?</h1>
   <ul>cares</ul>
