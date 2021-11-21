@@ -1,13 +1,18 @@
-# Yahallo!
+# Yahallo! <img src="https://cdn.discordapp.com/attachments/695830301284237393/807092067247325194/image0-1.gif" width="30" height="30" />
 
-## Something about me...
+
+
+## Something about me... <img src= "https://cdn.discordapp.com/emojis/848738178620981308.gif" width="30" height="30" />
 > I am Hyena, a musical artist that also likes programming (just maybe). 
 The languages that I know (or used to...) are C++ and Python.
 
-## Ways you can contact me...
+## Ways you can contact me... <img src= "https://cdn.discordapp.com/emojis/778772475462549544.gif" width="30" height="30" />
 > No, thanks.
 
 <!-- I don't know what to do with this lol
+![text](https://cdn.discordapp.com/attachments/695830301284237393/807092067247325194/image0-1.gif)
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+
 <body>
   <h1>Who?</h1>
   <ul>cares</ul>
