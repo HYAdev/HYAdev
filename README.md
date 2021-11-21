@@ -9,7 +9,7 @@
 > The languages that I know (or used to...) are **C++ and Python**.
 
 ## Ways you can contact me... <img src= "https://cdn.discordapp.com/emojis/778772475462549544.gif" width="30" height="30" />
-> No, thanks.
+> Don't talk to me.
 
 <!-- I don't know what to do with this lol
 ![text](https://cdn.discordapp.com/attachments/695830301284237393/807092067247325194/image0-1.gif)
