@@ -6,7 +6,7 @@
 > I am **Hyena**, a [*music producer*](https://www.youtube.com/channel/UCGsJUlFVL-9UF0Txxp1VB_w) that likes programming (sort of). 
 
 ## I know... <img src= "https://cdn.discordapp.com/emojis/792588143094267976.gif" width="30" height="30" />
-> The languages that I know (or used to...) are **C++** and **Python**.
+> The languages that I ~~used to~~ know are **C++** and **Python**.
 
 <!-- I don't know what to do with this lol
 ![text](https://cdn.discordapp.com/attachments/695830301284237393/807092067247325194/image0-1.gif)
