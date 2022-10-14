@@ -7,6 +7,7 @@
 
 ## I know... <img src= "https://cdn.discordapp.com/emojis/792588143094267976.gif" width="30" height="30" />
 > I am famliar with C++, Java, and Python.
+> Cybersecurity
 
 ## I want to know... <img src="https://cdn.discordapp.com/emojis/764517171232636938.gif" height="30" width="30">
 >  Everything
