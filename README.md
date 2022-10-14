@@ -10,4 +10,4 @@
 > Cybersecurity
 
 ## I want to know... <img src="https://cdn.discordapp.com/emojis/764517171232636938.gif" height="30" width="30">
->  Everything
+>  How many times I should flip a coin to be 50% sure that I will land 17 consecutive heads?
