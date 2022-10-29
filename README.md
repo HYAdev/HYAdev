@@ -1,5 +1,3 @@
-# HYENA
-
 ### 🐈 About Me
 **`Programmer/Music Producer/Cybersecurity`**
 
