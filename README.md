@@ -1,5 +1,5 @@
 ### 🐈 About Me
-**`Programmer/Music Producer/Cybersecurity`**
+**`Music Producer/Programmer/Cybersecurer`**
 
 Yahallo! I'm currently a student that enjoys many aspects of Computer Science. I am a member of CyberPatriot, which is a competition hosted by the US' Air Force and Space Association (AFA), where my primary focus is Windows. I am continuously honing my cybersecurity skills through Capture the Flags (CTFs). In my free time, I upload original songs to my YouTube channel, [HYAmusic](https://www.youtube.com/c/HYAmusic), which has over 120 subscribers as of now (*please subscribe*). My speciality genres are pop, funk, chill, etc. Also, I really love cats.
 
