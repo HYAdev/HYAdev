@@ -17,8 +17,3 @@ Yahallo! I'm currently a student that enjoys many aspects of Computer Science. I
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <br/>
-
----
-
-### 📊 Stats
-![My Stats](https://github-readme-stats.vercel.app/api?username=hyadev&show_icons=true&theme=nightowl)
