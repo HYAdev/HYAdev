@@ -1,7 +1,7 @@
 ### 🐈 About Me
 **`Producer/Programmer/Visioneer`**
 
-Hello there. I'm currently a student with a profound interest in many different aspects of computer science. I am currently a competitor in **CyberPatriot**, which is a hardening and incident response competition run by USA's Air & Space Forces Association (AFA). I continuously hone my cybersecurity skills through **CTFs**. In my free time, I upload original songs to my YouTube channel, [HYAmusic](https://www.youtube.com/c/HYAmusic), and explore the realm of AI technologies, such as Midjourney, DALLE, GPT, etc.
+Hello there. I'm currently a university student with a profound interest in many different aspects of computer science. In my free time, I upload original songs to my YouTube channel, [HYAmusic](https://www.youtube.com/c/HYAmusic), and explore the realm of AI technologies, such as Midjourney, DALLE, GPT, etc.
 
   <p align="left">
     <a href="https://www.youtube.com/c/HYAmusic?sub_confirmation=1">
